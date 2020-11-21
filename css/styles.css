@@ -1,0 +1,125 @@
+#title {
+  background-color: #ec5858 ;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+h3{
+  font-family: 'Goldman', cursive;
+  font-size: 1.8rem;
+
+
+}
+h2 {
+  font-family: 'Goldman', cursive;
+  font-size: 2.8rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15%;
+
+}
+i {
+  margin-right: 0.3rem;
+}
+/* Nav bar */
+.navbar {
+  padding: 0 0 4.5rem;
+
+
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.navbar-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-family: "Montserrat-light";
+  font-size: 1.6rem;
+
+}
+/* Buttons /stáhnuti / */
+.stahnout{
+  margin: 5% 3% 5% 0;
+}
+/* Title obr */
+.title-obr{
+  transform: rotate(25deg);
+  width: 60%;
+
+}
+/* features */
+#features{
+  padding: 10% 15%;
+
+}
+.features{
+  text-align: center;
+  padding: 8% 0;
+}
+.features p{
+  color: #8f8f8f;
+  margin: 0 20%;
+
+
+
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+
+}
+.icon:hover {
+  color: #ff4c68;
+
+}
+/* telo */
+#telo{
+
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+}
+.img-fluid{
+  margin: 20px;
+  border-radius: 100%;
+  max-width: 100%;
+  height: auto;
+  min-width: 20%;
+}
+
+.telo-img{
+  width: 11%;
+}
+.telo-img1{
+  width: 9%;
+  }
+.carousel-item {
+  padding: 10% 15%;
+}
+
+/* media */
+#media{
+ background-color: #ef8172;
+ text-align: center;
+ padding-bottom: 3%;
+ padding-top: 3%;
+}
+.media-img{
+  width:8%;
+  margin: 20px 20px 50px;
+}
+/* ceny */
+#pricing{
+  text-align: center;
+}
